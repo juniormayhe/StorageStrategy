@@ -1,1 +1,1 @@
-"# StorageStrategy" 
+# StorageStrategy
